@@ -22,7 +22,6 @@
 
 ---
 
-
 <img width="310px" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/>
 
 - 🌱 I’m currently learning **Computer Science**
@@ -34,9 +33,6 @@
 - 📫 📫 How to reach me **imalsha.contact@gmail.com**
 
 - ⚡ Fun fact **Visit new places you've never explored before!!**
-
-
-
   
 ---
 
