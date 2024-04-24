@@ -67,6 +67,6 @@
 
 ---
 <p align="centre">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavodyaPasqual&theme=dark&layout=compact" width="320" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavodyaPasqual&theme=dark&layout=compact" width="340" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=imalsha-github&show_icons=true&theme=dark&locale=en" alt="imalsha" />
 </p>
