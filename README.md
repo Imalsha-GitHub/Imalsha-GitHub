@@ -22,7 +22,7 @@
 
 ---
 <div align="centre">
-<img width="310px" align="centre" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/>
+<img width="310px" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/>
 
 <p align= "right">
 
@@ -32,12 +32,12 @@
 
 - 💬 Ask me about **Flutter, C, C++**
 
-- 📫 📫 How to reach me **imalsha.contact@gmail.com**
+- 📫 How to reach me **imalsha.contact@gmail.com**
 
 - ⚡ Fun fact **Visit new places you've never explored before!!**
 
 </p>
-</centre>
+</div>
 
 ---
 
