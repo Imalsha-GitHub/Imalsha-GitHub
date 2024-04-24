@@ -44,7 +44,7 @@
 ## Connect with me
 <p align="left">
   <a href="https://twitter.com/imalsha_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imalsha_j" height="30" width="40" /></a>
-  <a href="https://lk.linkedin.com/in/imalsha-jathunarachchi-698684252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://lk.linkedin.com/in/imalsha-jathunarachchi-698684252" height="30" width="40" /></a>
+  <a href="https://lk.linkedin.com/in/imalsha-jathunarachchi-698684252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imalsha" height="30" width="40" /></a>
   <a href="https://fb.com/https://m.facebook.com/imalsha.jathunarachchi.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/imalsha.jathunarachchi.96" height="30" width="40" /></a>
   <a href="https://instagram.com/imaz_ja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imaz_ja" height="30" width="40" /></a>
 </p>
