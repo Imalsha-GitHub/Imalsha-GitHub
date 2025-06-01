@@ -30,7 +30,7 @@
 
 - 👨‍💻 All of my projects are available at **this Accoount**
 
-- 💬 Ask me about **Flutter, C, C++**
+- 💬 Ask me about **Python, PHP**
 
 - 📫 How to reach me **imalsha.contact@gmail.com**
 
