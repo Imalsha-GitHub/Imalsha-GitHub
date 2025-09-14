@@ -30,7 +30,7 @@
 
 - 👨‍💻 All of my projects are available at **this Accoount**
 
-- 💬 Ask me about **Python, PHP**
+- 💬 Ask me about **MERN Stack, Python, PHP**
 
 - 📫 How to reach me **imalsha.contact@gmail.com**
 
