@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 All of my projects are available at **this Accoount**
+- 👨‍💻 All of my projects are available at **this Account**
 
 - 💬 Ask me about **MERN Stack, Python, PHP**
 
