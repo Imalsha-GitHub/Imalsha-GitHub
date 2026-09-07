@@ -26,11 +26,11 @@
 
 <p align= "right">
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently working as a **Data Engineer**
 
 - 👨‍💻 All of my projects are available at **this Account**
 
-- 💬 Ask me about **MERN Stack, Python, PHP**
+- 💬 Ask me about **Data Engineering, MySQL, Python, Databricks**
 
 - 📫 How to reach me **imalsha.contact@gmail.com**
 
