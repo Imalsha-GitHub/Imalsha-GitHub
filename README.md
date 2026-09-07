@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/imalsha-github">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&lines=Computer+Science+Undergraduate;University+of+Colombo;School+of+Computing;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things!&center=true&width=550&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&lines=Computer+Science+Graduate;University+of+Colombo;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things!&center=true&width=550&height=45">
   </a>
 </p>
 
